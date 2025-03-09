@@ -1,4 +1,4 @@
-<h1 align="center">📑 My Favorite Quote 📑</h1>
+
 
 <div align="center">
   <blockquote>
